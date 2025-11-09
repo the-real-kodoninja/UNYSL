@@ -1,4 +1,4 @@
 # UNYSL
 
 Universal scripting language modeled after PHP, Python & Ruby
-- To be developed along side UNYFY (UNYSL on UNYFY)
+- To be developed along side UNYFY (UNYSL on UNYFI)
